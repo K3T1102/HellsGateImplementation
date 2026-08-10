@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Hell's G.809e2a4d\\x64\\Debug\\peb_walking.obj",
+            "outputs": [
+                "Hell's G.809e2a4d\\x64\\Debug\\peb_walking.cpp.obj.dt.module.json",
+                "Hell's G.809e2a4d\\x64\\Debug\\peb_walking.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

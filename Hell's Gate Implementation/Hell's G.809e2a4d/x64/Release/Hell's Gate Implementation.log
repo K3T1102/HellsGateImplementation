@@ -1,0 +1,7 @@
+﻿  Assembling stub.asm...
+  HellsGateImplementation.cpp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 328 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  Hell's Gate Implementation.vcxproj -> C:\malware-development\cpp_execices\hells-gate\Hell's Gate Implementation\x64\Release\Hell's Gate Implementation.exe
