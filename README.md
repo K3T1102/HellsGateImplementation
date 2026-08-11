@@ -3,7 +3,7 @@
 Minha implementação da técnica Hell's Gate + Halo's Gate + PEBWalking para recuperar SSN's de funções da ntdll.dll.
 
 
-## Authores da técnica
+## Autores da técnica
 
 - [@am0nsec](https://www.github.com/am0nsec)
 - @smelly__vx
