@@ -44,6 +44,6 @@ E no arquivo HellsGateImplementation.cpp estão as declarações das funções N
 
 ![POC](hellsgatepoc/poc_realized.png)
 
-## Link do meu blog:
+## Link do post explicando a técnica no meu blog:
 
-https://kittens-den.gitbook.io/kittens-den
+https://kittens-den.gitbook.io/kittens-den/malware-development/edr-evasion/hells-gate
